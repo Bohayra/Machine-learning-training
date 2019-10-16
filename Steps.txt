@@ -12,3 +12,6 @@ Run on the google:
 
 Link the current folder to github:
 	first go to the folder in the terminal and follow: https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line
+	to update: 
+		1- git add .
+		2- git commit -m "update first"
