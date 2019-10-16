@@ -1,0 +1,14 @@
+Anaconda->Prompt
+
+Installation of a modile:
+	Search goodle: numpy install conda
+	Go to: https://anaconda.org/anaconda/numpy
+        Run the command in prompt:  conda install -c anaconda numpy 
+
+	Also download GIT: https://git-scm.com/downloads
+
+Run on the google:
+	https://colab.research.google.com/notebooks/welcome.ipynb#recent=true
+
+Link the current folder to github:
+	first go to the folder in the terminal and follow: https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line
